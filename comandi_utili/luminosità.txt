@@ -1,0 +1,2 @@
+xdotool key XF86MonBrightnessDown
+xdotool key XF86MonBrightnessUp

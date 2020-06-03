@@ -1,0 +1,1 @@
+enscript -1rG --line-numbers -p ~/Desktop/out.ps --highlight=c --color=1 -c Graph.c 

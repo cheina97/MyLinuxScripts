@@ -1,0 +1,1 @@
+ffmpeg -f v4l2 -i /dev/video0 -vframes 1 ~/Desktop/test1.jpeg
