@@ -1,2 +1,2 @@
 # MyLinuxScripts
-Bash an python scripts written by me for useful (or not?) purpose
+Bash and python scripts written by me for useful (or not?) purposes
